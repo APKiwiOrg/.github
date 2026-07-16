@@ -1,14 +1,14 @@
 # APKiwiOrg
 
-Indie game development.
+Indie games on our own engine.
 
-Home of **KhaozEngine**, a custom MonoGame-free 2D/3D game engine built on .NET (Silk.NET windowing and input, Veldrid GPU abstraction, OpenAL audio), with its own ECS, GUI, particles, netcode, and authoritative MMO-scale multiplayer stack.
+**KhaozEngine** is the in-house tech behind everything here: a .NET 2D/3D engine with its own renderer (Metal, Vulkan, Direct3D), GUI, particles, ECS, audio, and an authoritative multiplayer stack built to scale from solo play to a sharded MMO world.
 
-Games built on it:
+In the works:
 
 - **Hardpoint** - 3D
 - **Ruinborne** - 3D MMO
 - **Nullwake** - 2D
 - **SpaceGame** - 2.5D
 
-Development happens in private repos for now.
+Everything lives in private repos while we build. More to show soon.
